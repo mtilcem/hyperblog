@@ -11,7 +11,11 @@ body {
     width: 70%;
     padding: 1em;
     text-align: left;
+<<<<<<< HEAD
     border: 2px solid #DDD;
+=======
+    border: 3px snow #DDD;
+>>>>>>> cabecera
     margin: 0 auto;
 }
 

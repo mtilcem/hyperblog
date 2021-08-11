@@ -8,6 +8,8 @@ su obra maestra
 
 testSSSSSS
 
+master 1
+
 desde ubuntu
 
 ubunt 2
